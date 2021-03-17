@@ -1,0 +1,40 @@
+/*estilos propios de la pagina */
+body {
+  font-family: "Jost", sans-serif;
+}
+.bg-red {
+  background-color: rgba(220, 4, 43, 1);
+}
+.s-box {
+  box-shadow: 0px 0px 40px rgb(180, 180, 180, 0.7);
+}
+.bg-box {
+  background-color: rgba(220, 4, 43, 0.2);
+  border-radius: 10px;
+}
+.is-300x300 {
+  width: 300px;
+}
+.is-100pc {
+  width: 100%;
+}
+.hero-body {
+  padding: 0;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.section p {
+  font-size: 20px;
+  width: 90%;
+
+  /* color: rgba(250, 249, 234, 1); */
+}
+.h3 {
+  font-size: 2em;
+  color: rgba(220, 4, 43, 1);
+  text-transform: uppercase;
+}
